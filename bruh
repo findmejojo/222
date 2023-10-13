@@ -29,7 +29,7 @@ intents = discord.Intents.all()
 bot = commands.Bot(command_prefix='.', intents=intents, help_command=None)
 
 config = {
-    'token': "MTEzMjg0NjMyMjQ4ODE4MDc0Ng.GYGWyL.AeRbO30QoEejg7WeLo-IopQ0bOXWmVUCHChdp4",
+    'token': "MTEzMjg0NjMyMjQ4ODE4MDc0Ng.G_D_9H.GzFmdNWYO8Kzr3k7Rph5JmJExK_rN4PyTwLrpA5",
     'server_id': '1155509392733655050'
 }
 
